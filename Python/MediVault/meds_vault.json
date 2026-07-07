@@ -1,0 +1,23 @@
+{
+    "patients": {
+        "@#-09948": {
+            "user": {
+                "name": "Arjonel Pogi",
+                "age": 19
+            },
+            "medications": [
+                {
+                    "name": "warfarin",
+                    "dosage": 10.0,
+                    "frequency": "once a week"
+                },
+                {
+                    "name": "aspirin",
+                    "dosage": 10.0,
+                    "frequency": "once a week"
+                }
+            ]
+        }
+    },
+    "current_patient": "@#-09948"
+}
