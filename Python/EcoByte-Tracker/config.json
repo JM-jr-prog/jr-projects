@@ -1,0 +1,7 @@
+{
+    "target_folder": "~/Downloads",
+    "age_threshold_days": 10,
+    "user_email": "example@email.com",
+    "schedule_time": "23:00",
+    "scheduler_active": false
+}
